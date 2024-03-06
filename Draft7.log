@@ -1,0 +1,27 @@
+Circuit: * C:\Users\PC\OneDrive - Hanoi University of Science and Technology\Documents\LTspiceXVII\Draft7.asc
+
+WARNING: Node NC_01 is floating.
+WARNING: Node NC_02 is floating.
+WARNING: Node OUTPUT is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+WARNING: Less than two connections to node NC_02.  This node is used by C1.
+WARNING: Less than two connections to node OUTPUT.  This node is used by C2.
+
+Date: Wed Dec 20 11:45:34 2023
+Total elapsed time: 0.048 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 122
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 13
+fillins = 4
+solver = Normal
+Matrix Compiler1:      44 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2:      82 opcodes  0.1/[0.1]/0.1
+

@@ -1,0 +1,41 @@
+Circuit: * C:\Users\PC\OneDrive - Hanoi University of Science and Technology\Documents\LTspiceXVII\Draft4.asc
+
+.OP point found by inspection.
+Ignoring empty pin current: Ix(u1:n009)
+Ignoring empty pin current: Ix(u1:nreset)
+Ignoring empty pin current: Ix(u1:n002)
+Ignoring empty pin current: Ix(u1:n005)
+Ignoring empty pin current: Ix(u1:n008)
+Ignoring empty pin current: Ix(u2:n009)
+Ignoring empty pin current: Ix(u2:nreset)
+Ignoring empty pin current: Ix(u2:n002)
+Ignoring empty pin current: Ix(u2:n005)
+Ignoring empty pin current: Ix(u2:n008)
+Ignoring empty pin current: Ix(u1:n009)
+Ignoring empty pin current: Ix(u1:nreset)
+Ignoring empty pin current: Ix(u1:n002)
+Ignoring empty pin current: Ix(u1:n005)
+Ignoring empty pin current: Ix(u1:n008)
+Ignoring empty pin current: Ix(u2:n009)
+Ignoring empty pin current: Ix(u2:nreset)
+Ignoring empty pin current: Ix(u2:n002)
+Ignoring empty pin current: Ix(u2:n005)
+Ignoring empty pin current: Ix(u2:n008)
+
+Date: Sat Oct 07 21:02:13 2023
+Total elapsed time: 0.122 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2297
+traniter = 2297
+tranpoints = 1075
+accept = 1060
+rejected = 15
+matrix size = 15
+fillins = 2
+solver = Normal
+Matrix Compiler1: 1.26 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
